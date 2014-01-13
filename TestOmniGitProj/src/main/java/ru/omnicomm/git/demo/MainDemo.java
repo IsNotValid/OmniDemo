@@ -7,5 +7,6 @@ public class MainDemo {
 
     public static void main(String[] args) {
         System.out.println("Hello, OmniGit!");
+		System.out.println("Hello, OmniGit!");
     }
 }
